@@ -1,5 +1,5 @@
 # odin-recipes
-#H1 First assigment of the odin project
+# H1 First assigment of the odin project
 
 We try to complete the first assigmenet of the project:
 
